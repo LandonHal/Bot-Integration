@@ -1,0 +1,4 @@
+displayName = Discord Bot Integration
+author = hogswoggler
+version = 0.1
+ModSide = Server
